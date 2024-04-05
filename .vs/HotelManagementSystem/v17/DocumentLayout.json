@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\cc3-1n-Patna-anJJ-hms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{144CA1DD-756F-489A-B869-C3B30DE76CF3}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\admin\\source\\repos\\cc3-1n-patna-anjj-hms\\hotelmanagementsystem\\hotelmanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144CA1DD-756F-489A-B869-C3B30DE76CF3}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\hotelmanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144CA1DD-756F-489A-B869-C3B30DE76CF3}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\admin\\source\\repos\\cc3-1n-patna-anjj-hms\\hotelmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144CA1DD-756F-489A-B869-C3B30DE76CF3}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144CA1DD-756F-489A-B869-C3B30DE76CF3}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\admin\\source\\repos\\cc3-1n-patna-anjj-hms\\hotelmanagementsystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144CA1DD-756F-489A-B869-C3B30DE76CF3}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144CA1DD-756F-489A-B869-C3B30DE76CF3}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\admin\\source\\repos\\cc3-1n-patna-anjj-hms\\hotelmanagementsystem\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144CA1DD-756F-489A-B869-C3B30DE76CF3}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144CA1DD-756F-489A-B869-C3B30DE76CF3}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\admin\\source\\repos\\cc3-1n-patna-anjj-hms\\hotelmanagementsystem\\receptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144CA1DD-756F-489A-B869-C3B30DE76CF3}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\receptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144CA1DD-756F-489A-B869-C3B30DE76CF3}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\admin\\source\\repos\\cc3-1n-patna-anjj-hms\\hotelmanagementsystem\\hotelroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144CA1DD-756F-489A-B869-C3B30DE76CF3}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\hotelroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144CA1DD-756F-489A-B869-C3B30DE76CF3}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\admin\\source\\repos\\cc3-1n-patna-anjj-hms\\hotelmanagementsystem\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144CA1DD-756F-489A-B869-C3B30DE76CF3}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144CA1DD-756F-489A-B869-C3B30DE76CF3}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\admin\\source\\repos\\cc3-1n-patna-anjj-hms\\hotelmanagementsystem\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144CA1DD-756F-489A-B869-C3B30DE76CF3}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144CA1DD-756F-489A-B869-C3B30DE76CF3}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\admin\\source\\repos\\cc3-1n-patna-anjj-hms\\hotelmanagementsystem\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144CA1DD-756F-489A-B869-C3B30DE76CF3}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\cc3-1n-Patna-anJJ-hms\\HotelManagementSystem\\User.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\cc3-1n-Patna-anJJ-hms\\HotelManagementSystem\\User.cs",
+              "RelativeToolTip": "HotelManagementSystem\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:31:48.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\cc3-1n-Patna-anJJ-hms\\HotelManagementSystem\\Reservation.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Reservation.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\cc3-1n-Patna-anJJ-hms\\HotelManagementSystem\\Reservation.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Reservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:31:39.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Receptionist.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\cc3-1n-Patna-anJJ-hms\\HotelManagementSystem\\Receptionist.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Receptionist.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\cc3-1n-Patna-anJJ-hms\\HotelManagementSystem\\Receptionist.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Receptionist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:31:27.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HotelRoom.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\cc3-1n-Patna-anJJ-hms\\HotelManagementSystem\\HotelRoom.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\HotelRoom.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\cc3-1n-Patna-anJJ-hms\\HotelManagementSystem\\HotelRoom.cs",
+              "RelativeToolTip": "HotelManagementSystem\\HotelRoom.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:31:10.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HotelManagementSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\cc3-1n-Patna-anJJ-hms\\HotelManagementSystem\\HotelManagementSystem.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\HotelManagementSystem.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\cc3-1n-Patna-anJJ-hms\\HotelManagementSystem\\HotelManagementSystem.cs",
+              "RelativeToolTip": "HotelManagementSystem\\HotelManagementSystem.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwDEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:30:57.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\cc3-1n-Patna-anJJ-hms\\HotelManagementSystem\\Hotel.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Hotel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\cc3-1n-Patna-anJJ-hms\\HotelManagementSystem\\Hotel.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Hotel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwCUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:30:42.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\cc3-1n-Patna-anJJ-hms\\HotelManagementSystem\\Account.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Account.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\cc3-1n-Patna-anJJ-hms\\HotelManagementSystem\\Account.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:30:30.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\cc3-1n-Patna-anJJ-hms\\HotelManagementSystem\\Guest.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Guest.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\cc3-1n-Patna-anJJ-hms\\HotelManagementSystem\\Guest.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Guest.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAADUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:30:19.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\cc3-1n-Patna-anJJ-hms\\HotelManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\cc3-1n-Patna-anJJ-hms\\HotelManagementSystem\\Program.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:28:48.635Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
