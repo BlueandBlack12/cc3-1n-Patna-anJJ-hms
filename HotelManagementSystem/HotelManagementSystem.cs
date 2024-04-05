@@ -30,22 +30,22 @@ namespace HotelManagementSystem
 
         public void BookReservation(Hotel hotel, HotelRoom room, Guest guest, DateTime startTime, DateTime endTime)
         {
-            // Implement according to your requirements
+           
         }
 
         public void RegisterUser(Guest guest)
         {
-            // Implement according to your requirements
+            
         }
 
         public void RegisterUser(Receptionist receptionist)
         {
-            // Implement according to your requirements
+            
         }
 
         public void DisplayReservationDetails(int reservationNumber)
         {
-            // Implement according to your requirements
+           
         }
     }
 }
