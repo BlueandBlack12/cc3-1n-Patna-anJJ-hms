@@ -9,6 +9,8 @@ namespace HotelManagementSystem
     public class HotelManagementSystem
     {
         private List<Hotel> hotels;
+        private  List<User> users;
+        private List<Reservation> reservations;
 
         public HotelManagementSystem()
         {
@@ -33,7 +35,7 @@ namespace HotelManagementSystem
            
         }
 
-        public void RegisterUser(Guest guest)
+        public void RegisterUser(User user)
         {
             
         }

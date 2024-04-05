@@ -13,6 +13,8 @@ namespace HotelManagementSystem
         public DateTime EndTime { get; set; }
         public int DurationInDays => (EndTime - StartTime).Days;
         public HotelRoom Room { get; set; }
+        public decimal Total {  get; set; }
+
 
         public Reservation(int reservationNumber, DateTime startTime, DateTime endTime, HotelRoom room)
         {
@@ -20,6 +22,7 @@ namespace HotelManagementSystem
             StartTime = startTime;
             EndTime = endTime;
             Room = room;
+            Total = 0;
         }
     }
 }

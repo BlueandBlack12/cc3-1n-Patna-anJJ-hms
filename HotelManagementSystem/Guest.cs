@@ -20,9 +20,9 @@ namespace HotelManagementSystem
         public void BookRoom(HotelRoom room, DateTime startTime, DateTime endTime)
         {
             
-            if (!room.IsAvailable)
+            if (!room.Status)
             {
-                Console.WriteLine("Room is not available for booking.");
+                Console.WriteLine("\t Room is not available for booking.");
                 return;
             }
 
@@ -32,9 +32,9 @@ namespace HotelManagementSystem
             Reservations.Add(reservation);
 
             
-            room.IsAvailable = false;
+            room.Status = false;
 
-            Console.WriteLine($"Room {room.RoomNumber} booked successfully.");
+            Console.WriteLine($"\t Room {room.RoomNumber} booked successfully.");
         }
 
         private int GenerateReservationNumber()
@@ -45,7 +45,7 @@ namespace HotelManagementSystem
 
         public void DisplayReservations()
         {
-            Console.WriteLine($"Reservations of {Name}:");
+            Console.WriteLine($"\t Reservations of {Name}:");
             foreach (var reservation in Reservations)
             {
                 Console.WriteLine($"Reservation Number: {reservation.ReservationNumber}, Room Number: {reservation.Room.RoomNumber}, Start Time: {reservation.StartTime}, End Time: {reservation.EndTime}, Duration: {reservation.DurationInDays} days");
